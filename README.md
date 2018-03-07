@@ -3,7 +3,7 @@ A handy utility to generate random passwords of varying length.
 By default it will generate 5 passwords of 2o characters, but you can be configured to produce
 longer or shorter passwords.
 
-![pswdgen.exe snapshot](https://github.com/angeleno/pswdgen/snap.png "pswdgen.exe snapshot")
+![pswdgen.exe snapshot](https://github.com/angeleno/pswdgen/blob/master/snap.png "pswdgen.exe snapshot")
 
 
 Eg: This will produce 10 passwords of 32 character length:
