@@ -68,7 +68,7 @@ namespace pswdgen
                 Console.WriteLine("A handy utility to generate random passwords");
                 Console.WriteLine("Copyright c Sarang Baheti 2018");
                 Console.Write("source available at: ");
-                WriteWithUnderLine("https://www.github.com/angeleno/pswdgen", ConsoleColor.Green);
+                WriteWithUnderLine("https://www.github.com/sarangxyz/pswdgen", ConsoleColor.Green);
                 Console.WriteLine();
                 Console.WriteLine("usage: pswdgen <numchars>{opt} <numpswds>{opt}");
                 Console.WriteLine("       default will generate 5<numpswds> of 20<numchars> each");
